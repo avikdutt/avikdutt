@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Avik Dutta, a Could Infra Engineer (Consultant) from India with 9+ years of professional IT experience and passionate about DevOps. 🎯
+
+I mostly work with Linux Servers as a Technical Lead and Cloud based technologies. 🚀
+
+🌱 I’m currently learning DevOps ...
+
 <!--
 **avikdutt/avikdutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
