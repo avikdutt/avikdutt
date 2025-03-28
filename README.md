@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Avik Dutta, a Could Infra Engineer (Consultant) from India with 9+ years of professional IT experience and passionate about DevOps. 🎯
+I am Avik Dutta, a Could Infra Engineer (Consultant) from India with 10+ years of professional IT experience and passionate about DevOps. 🎯
 
 I mostly work with Linux Servers as a Technical Lead and Cloud based technologies. 🚀
 
